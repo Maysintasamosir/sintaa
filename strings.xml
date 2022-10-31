@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">INTENT EXXPILICIT</string>
+    <string name="move_activity">ADD NUMBER</string>
+    <string name="move_with_data">ADD TEXT</string>
+    <string name="dial_number">CALCULATOR RUANG</string>
+    <string name="data_received">data di terima</string>
+
+</resources>
+
